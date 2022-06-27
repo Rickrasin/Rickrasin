@@ -1,13 +1,13 @@
 <h1 align="center">Olá 👋, Eu sou Rickras</h1>
 <h3 align="center">Iniciante em desenvolvimento Front End e um estudante intermediário de Game Developer no tempo livre</h3>
 
-- 🔭 Eu estou trabalhando em **Call from SLime**
+- 🔭 Eu estou trabalhando em **Call from SLime** e em meu **Portfolio**
 
-- 🌱 Eu estou aprendendo **Html, CSS, JavaScript, Unity e Adobe XD.**
+- 🌱 Estudando **Html, CSS, JavaScript, Unity e Adobe XD.**
 
 - 💬 Me pergunte sobre **Django and Unity.**
 
-- 📫 Você pode me encontrar em **rickson2013oliveira@gmail.com**
+- 📫 Você pode me contactar em **rickson2013oliveira@gmail.com**
 
 - ⚡ Fun Fact **No boxe, no boxe os socos que você não vê são os que mais nocauteiam**
 
@@ -47,3 +47,5 @@
 </a> 
 </p>
 
+
+![Snake animation](https://github.com/rafaballerini/rickrasin/blob/output/github-contribution-grid-snake.svg)

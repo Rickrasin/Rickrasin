@@ -1,58 +1,31 @@
-<h1 align="center">Olá 👋, Eu sou Rickras</h1>
-<h3 align="center">Iniciante em desenvolvimento Front End e um estudante intermediário de Game Developer no tempo livre</h3>
 
-- 🔭 Eu estou trabalhando em **Call from SLime** e em meu **Portfolio**
+## Olá 👋, Eu sou Rickras
+### Iniciante em desenvolvimento Front End e um estudante intermediário de Game Developer no tempo livre
 
-- 🌱 Estudando **Html, CSS, JavaScript, Unity e Adobe XD.**
+##
 
-- 💬 Me pergunte sobre **Django and Unity.**
-
-- 📫 Você pode me contactar em **rickson2013oliveira@gmail.com**
-
-- ⚡ Fun Fact **No boxe, no boxe os socos que você não vê são os que mais nocauteiam**
-
-<div display="flex" justify-content="center">
-<a href="https://github.com/Rickrasin/">
-  <img  src="https://github-readme-stats.vercel.app/api?username=Rickrasin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rickrasin&layout=compact&langs_count=7&theme=tokyonight"/>
-</a>
+<div align="center">
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-
-<h3 align="left">Por onde me contactar:</h3>
-<p align="left">
-<a href="https://instagram.com/@rickrasochefe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@rickrasochefe" height="30" width="40" />
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rickras-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rickras-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rickras-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rickras-Unity" height="30" width="40" style="color: #fff" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg">
   
-<a href="https://discord.gg/https://discord.gg/vhfdKbsVpe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/vhfdKbsVpe" height="30" width="40" />
+</div>
   
-<a href="https://www.linkedin.com/in/rickson-oliveira-44331822b/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="https://linkedin.com/in/rickson-oliveira-44331822b/" height="30" width="40" />
-</p>
+  ##
+  
+<div> 
+ <a href="https://instagram.com/rickrasochefe" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+ <a href = "mailto:rickson2013oliveira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 
-<h3 align="left">Linguagens e Ferramentas:</h3>
-<p align="left" style="display: flex;justify-content: space-evenly;width: 20%;";
-    width: 245px;"> 
-
-
-<a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="flutter" width="40" height="40" /> 
-</a> 
-
-
-
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="python" width="40" height="40" /> 
- </a> 
-
-
-<a href="https://unity.com/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40" /> 
-</a> 
-
-
-<a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> 
-<img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40" /> 
-</a> 
-</p>
-
-
-![Snake animation](https://github.com/rafaballerini/rickrasin/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Rickrasin/Rickrasin/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>

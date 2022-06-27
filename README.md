@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Rickras</h1>
-<h3 align="center">Beginner level Python development student intermediate game developer in his spare time</h3>
+<h1 align="center">Olá 👋, Eu sou Rickras</h1>
+<h3 align="center">Iniciante em desenvolvimento Front End e um estudante intermediário de Game Developer no tempo livre</h3>
 
 - 🔭 Eu estou trabalhando em **Call from SLime**
 

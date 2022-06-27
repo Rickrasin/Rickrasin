@@ -1,5 +1,5 @@
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/Rickrasin/68f448674e7235eb8e43b2794f4a72e0/raw/1759ba31a73a50c5179c207ec10154be86e6e23f/githubcard.svg"/>
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px" width="30px">, Eu sou Rickson</h1>
+<h1 align="left">Olá <img height="30px" width="30px" src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" >, Eu sou Rickson</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=blue" alt="Profile views" /> </p>
 
 - 🔥 Junior Developer e Game dev nas horas livres.
@@ -16,10 +16,10 @@
 
 ## 🛠 &nbsp;Tecnologias
 
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=HTML5&color=blue)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3&logoColor=1572B6&color=blue)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript&color=blue)&nbsp;
-![Unity](https://img.shields.io/badge/-Unity-05122A?style=for-the-badge&logo=unity&color=blue)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=HTML5&color=blueviolet)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3&logoColor=1572B6&color=blueviolet)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript&color=blueviolet)&nbsp;
+![Unity](https://img.shields.io/badge/-Unity-05122A?style=for-the-badge&logo=unity&color=blueviolet)&nbsp;
 
 <br><br>
 
@@ -34,15 +34,15 @@
 
 ## 👨🏽‍🦲 &nbsp;Redes Sociais
 
-<p align="left" style="background:yellow">
+<p align="left" style="background:blueviolet">
 <a href="https://codepen.io/Rickrasin" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Rickrasin-05122A?style=for-the-badge&logo=codepen&color=blue" alt="codepen"/>
+  <img align="center" src="https://img.shields.io/badge/-Rickrasin-05122A?style=for-the-badge&logo=codepen&color=blueviolet" alt="codepen"/>
 </a>
 <a href="https://www.linkedin.com/in/rickson-oliveira-44331822b" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-ricksonoliveira-05122A?style=for-the-badge&logo=linkedin&color=blue" alt="linkedin"/>
+  <img align="center" src="https://img.shields.io/badge/-ricksonoliveira-05122A?style=for-the-badge&logo=linkedin&color=blueviolet" alt="linkedin"/>
 </a>
 <a href="https://www.instagram.com/rickrasochefe/" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-rickrasochefe-05122A?style=for-the-badge&logo=instagram&color=blue" alt="instagram"/>
+ <img align="center" src="https://img.shields.io/badge/-rickrasochefe-05122A?style=for-the-badge&logo=instagram&color=blueviolet" alt="instagram"/>
 </a>
 </p>
 

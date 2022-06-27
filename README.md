@@ -14,7 +14,9 @@
 <h3 align="left">Por onde me contactar:</h3>
 <p align="left">
 <a href="https://instagram.com/@rickrasochefe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@rickrasochefe" height="30" width="40" />
+  
 <a href="https://discord.gg/https://discord.gg/vhfdKbsVpe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/vhfdKbsVpe" height="30" width="40" />
+  
 <a href="https://www.linkedin.com/in/rickson-oliveira-44331822b/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="https://linkedin.com/in/rickson-oliveira-44331822b/" height="30" width="40" />
 </p>
 
@@ -28,7 +30,7 @@
 </a> 
 
 
-<!–- Python -–>
+// Python
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 

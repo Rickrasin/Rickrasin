@@ -1,31 +1,64 @@
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/Rickrasin/68f448674e7235eb8e43b2794f4a72e0/raw/1759ba31a73a50c5179c207ec10154be86e6e23f/githubcard.svg"/>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px" width="30px">, Eu sou Rickson</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=blue" alt="Profile views" /> </p>
 
-## Olá 👋, Eu sou Rickras
-### Iniciante em desenvolvimento Front End e um estudante intermediário de Game Developer no tempo livre
+- 🔥 Junior Developer e Game dev nas horas livres.
 
-##
+- 🔭 No momento trabalhando no **Call Of Slime**, **Portfolio.**
 
-<div align="center">
-  <a href="https://github.com/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rickras-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rickras-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rickras-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rickras-Unity" height="30" width="40" style="color: #fff" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg">
-  
-</div>
-  
-  ##
-  
-<div> 
- <a href="https://instagram.com/rickrasochefe" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
- <a href = "mailto:rickson2013oliveira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+- 🌱 Eu estou aprendendo **Html, CSS, JavaScript, Unity e Adobe XD.**
+
+- 💬 Pergunte-me sobre **HTML, CSS, Unity**
+
+- ⚡ Fun fact **No boxe, no boxe os socos que você não vê são os que mais nocauteiam 🥊**
+
+<br><br>
+
+## 🛠 &nbsp;Tecnologias
+
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=HTML5&color=blue)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3&logoColor=1572B6&color=blue)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript&color=blue)&nbsp;
+![Unity](https://img.shields.io/badge/-Unity-05122A?style=for-the-badge&logo=unity&color=blue)&nbsp;
+
+<br><br>
+
+## ⚙️ &nbsp;Estatíticas no GitHub
+
+<p align="left">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=Rickrasin&show_icons=true&theme=tokyonight " alt="Rickrasin Status"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rickrasin&layout=compact&theme=tokyonight " alt="Rickrasin Linguagens"/>
+</p>
+
+<br><br>
+
+## 👨🏽‍🦲 &nbsp;Redes Sociais
+
+<p align="left" style="background:yellow">
+<a href="https://codepen.io/Rickrasin" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Rickrasin-05122A?style=for-the-badge&logo=codepen&color=blue" alt="codepen"/>
+</a>
+<a href="https://www.linkedin.com/in/rickson-oliveira-44331822b" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-ricksonoliveira-05122A?style=for-the-badge&logo=linkedin&color=blue" alt="linkedin"/>
+</a>
+<a href="https://www.instagram.com/rickrasochefe/" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-rickrasochefe-05122A?style=for-the-badge&logo=instagram&color=blue" alt="instagram"/>
+</a>
+</p>
 
 
-![Snake animation](https://github.com/Rickrasin/Rickrasin/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+
+<!--
+**Rickrasin/Rickrasin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->

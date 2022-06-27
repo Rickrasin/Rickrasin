@@ -11,6 +11,13 @@
 
 - ⚡ Fun Fact **No boxe, no boxe os socos que você não vê são os que mais nocauteiam**
 
+<div display="flex" justify-content="center">
+<a href="https://github.com/Rickrasin/">
+  <img  src="https://github-readme-stats.vercel.app/api?username=Rickrasin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rickrasin&layout=compact&langs_count=7&theme=tokyonight"/>
+</a>
+</div>
+
 <h3 align="left">Por onde me contactar:</h3>
 <p align="left">
 <a href="https://instagram.com/@rickrasochefe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@rickrasochefe" height="30" width="40" />

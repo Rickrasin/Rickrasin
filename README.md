@@ -22,7 +22,8 @@
 
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
-<p align="left"> 
+<p align="left" style="display: flex; justify-content: space-evenly;
+    width: 245px;"> 
 
 
 <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 

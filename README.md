@@ -46,6 +46,7 @@
 </a>
 </p>
 
+![Snake animation](https://github.com/rickrasin/rickrasin/blob/output/github-contribution-grid-snake.svg)
 
 
 <!--

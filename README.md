@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Rickras</h1>
 <h3 align="center">Beginner level Python development student intermediate game developer in his spare time</h3>
 
-- 🔭 I’m currently working on **Call from SLime**
+- 🔭 Eu estou trabalhando em **Call from SLime**
 
-- 🌱 I’m currently learning **Django, Unity, Flutter e Adobe XD.**
+- 🌱 Eu estou aprendendo **Html, CSS, JavaScript, Unity e Adobe XD.**
 
-- 💬 Ask me about **Django and Unity.**
+- 💬 Me pergunte sobre **Django and Unity.**
 
-- 📫 How to reach me **rickson2013oliveira@gmail.com**
+- 📫 Você pode me enconrar em **rickson2013oliveira@gmail.com**
 
-- ⚡ Fun fact **In boxing, in boxing the punches you don't see are the ones that knock out the most**
+- ⚡ Fun Fact **No boxe, no boxe os socos que você não vê são os que mais nocauteiam**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

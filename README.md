@@ -22,7 +22,7 @@
 
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
-<p align="left" style="display: flex; justify-content: space-evenly;
+<p align="left" style="display: flex;justify-content: space-evenly;width: 20%;";
     width: 245px;"> 
 
 

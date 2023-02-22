@@ -1,5 +1,5 @@
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/Rickrasin/68f448674e7235eb8e43b2794f4a72e0/raw/1759ba31a73a50c5179c207ec10154be86e6e23f/githubcard.svg"/>
-<h1 align="left">Olá <img height="30px" width="30px" src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" >, Eu sou Rickson</h1>
+<h1 align="left">Olá <img height="30px" width="30px" src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_dark-skin-tone_1f44b-1f3ff_1f3ff.png" >, Eu sou Rickson</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rickrasin&color=blue" alt="Profile views" /> </p>
 
 - 🔥 Junior Developer e Game dev nas horas livres.
@@ -13,6 +13,8 @@
 - ⚡ Fun fact **No boxe, no boxe os socos que você não vê são os que mais nocauteiam 🥊**
 
 <br><br>
+
+
 
 ## 🛠 &nbsp;Tecnologias
 

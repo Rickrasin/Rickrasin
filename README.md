@@ -4,7 +4,7 @@
 
 - 🔥 Game dev e Beginner Front End Dev.
 
-- 🔭 No momento desenvolvendo games do **20 Games Challenge* para meu **Portfolio**.
+- 🔭 No momento desenvolvendo games do **20 Games Challenge** para meu **Portfolio**.
 
 - 🌱 Eu estou aprendendo **Unity** && **Game Design**.
 

@@ -4,11 +4,11 @@
 
 - 🔥 Game dev e Beginner Front End Dev.
 
-- 🔭 No momento desenvolvendo games do **20 Games Challenge** para meu **Portfolio**.
+- 🔭 No momento estou incrementando meu portfólio com os desafios do **[20 Games Challenge](https://20_games_challenge.gitlab.io)** e do **[FrontEndMentor](https://www.frontendmentor.io/profile/Rickrasin)**.
 
-- 🌱 Eu estou aprendendo **Unity** && **Game Design**.
+- 🌱 Eu estou aprendendo **Unity** & **ReactJS**.
 
-- 💬 Pergunte-me sobre **HTML, CSS, Unity**
+- 💬 Pergunte-me sobre **HTML & CSS**, **ReactJS**, **Unity**
 
 - ⚡ Fun fact **No boxe, os socos que você não vê são os que mais nocauteiam 🥊**
 
@@ -28,8 +28,11 @@
 ## ⚙️ &nbsp;Estatíticas no GitHub
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=Rickrasin&show_icons=true&theme=tokyonight " alt="Rickrasin Status"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rickrasin&layout=compact&theme=tokyonight " alt="Rickrasin Linguagens"/>
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api?username=rickrasin&show_icons=true&theme=radical)
+  <br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rickrasin&card_width=466px&theme=radical)
 </p>
 
 <br><br>

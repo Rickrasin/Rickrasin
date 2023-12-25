@@ -6,9 +6,9 @@
 
 - 🔭 No momento estou incrementando meu portfólio com os desafios do **[FrontEndMentor](https://www.frontendmentor.io/profile/Rickrasin)**.
 
-- 🌱 Eu estou aprendendo **TypeScript** & **ReactJS**.
+- 🌱 Eu estou aprendendo **TypeScript** & **NextJS**.
 
-- 💬 Pergunte-me sobre **HTML & CSS**, **ReactJS**, **TypeScript**
+- 💬 Pergunte-me sobre **ReactJS**, **TypeScript** e **NextJS**
 
 - ⚡ Fun fact **O ontem é história, o amanhã é um mistério, mas hoje é uma dádiva, por isso chama-se presente. 🍃**
 
@@ -17,11 +17,11 @@
 
 
 ## 🛠 &nbsp;Tecnologias
-
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=HTML5&color=blueviolet)&nbsp;
+![FramerMotion](https://img.shields.io/badge/-FramerMotion-05122A?style=for-the-badge&logo=framer&color=blueviolet)&nbsp;
+![Redux](https://img.shields.io/badge/-redux-05122A?style=for-the-badge&logo=redux&color=blueviolet)&nbsp;
 ![ReactJS](https://img.shields.io/badge/-ReactJS-05122A?style=for-the-badge&logo=REACT&logoColor=1572B6&color=blueviolet)&nbsp;
-![NextJS](https://img.shields.io/badge/-NextJS-05122A?style=for-the-badge&logo=NEXT&color=blueviolet)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=for-the-badge&logo=typescript&color=blueviolet)&nbsp;
+![NextJS](https://img.shields.io/badge/-NextJS-05122A?style=for-the-badge&logo=NEXT&color=blueviolet)&nbsp;
 
 <br><br>
 

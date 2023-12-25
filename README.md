@@ -2,15 +2,15 @@
 <h1 align="left">Olá <img height="30px" width="30px" src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_dark-skin-tone_1f44b-1f3ff_1f3ff.png" >, Eu sou Rickson</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rickrasin&color=blue" alt="Profile views" /> </p>
 
-- 🔥 Game dev e Beginner Front End Dev.
+- 🔥 Front End Dev.
 
-- 🔭 No momento estou incrementando meu portfólio com os desafios do **[20 Games Challenge](https://20_games_challenge.gitlab.io)** e do **[FrontEndMentor](https://www.frontendmentor.io/profile/Rickrasin)**.
+- 🔭 No momento estou incrementando meu portfólio com os desafios do **[FrontEndMentor](https://www.frontendmentor.io/profile/Rickrasin)**.
 
-- 🌱 Eu estou aprendendo **Unity** & **ReactJS**.
+- 🌱 Eu estou aprendendo **TypeScript** & **ReactJS**.
 
-- 💬 Pergunte-me sobre **HTML & CSS**, **ReactJS**, **Unity**
+- 💬 Pergunte-me sobre **HTML & CSS**, **ReactJS**, **TypeScript**
 
-- ⚡ Fun fact **No boxe, os socos que você não vê são os que mais nocauteiam 🥊**
+- ⚡ Fun fact **O ontem é história, o amanhã é um mistério, mas hoje é uma dádiva, por isso chama-se presente. 🍃**
 
 <br><br>
 
@@ -21,7 +21,7 @@
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=HTML5&color=blueviolet)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3&logoColor=1572B6&color=blueviolet)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript&color=blueviolet)&nbsp;
-![Unity](https://img.shields.io/badge/-Unity-05122A?style=for-the-badge&logo=unity&color=blueviolet)&nbsp;
+![TypeScript](https://img.shields.io/badge/-Unity-05122A?style=for-the-badge&logo=unity&color=blueviolet)&nbsp;
 
 <br><br>
 

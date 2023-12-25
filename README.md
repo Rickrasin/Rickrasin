@@ -21,7 +21,7 @@
 ![ReactJS](https://img.shields.io/badge/-REACTJS-05122A?style=for-the-badge&logo=REACT&color=blueviolet)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=for-the-badge&logo=typescript&color=blueviolet)&nbsp;
 ![NextJS](https://img.shields.io/badge/-NextJS-05122A?style=for-the-badge&logo=next.js&color=blueviolet)&nbsp;
-![NodeJS](https://img.shields.io/badge/-NodeJS-05122A?style=for-the-badge&logo=node.js&color=blueviolet)&nbsp;
+![NodeJs](https://img.shields.io/badge/-NodeJs-05122A?style=for-the-badge&logo=node.js&color=blueviolet)&nbsp;
 ![FramerMotion](https://img.shields.io/badge/-FramerMotion-05122A?style=for-the-badge&logo=framer&color=blueviolet)&nbsp;
 ![Redux](https://img.shields.io/badge/-redux-05122A?style=for-the-badge&logo=redux&color=blueviolet)&nbsp;
 
@@ -42,15 +42,11 @@
 ## 👨🏽‍🦲 &nbsp;Redes Sociais
 
 <p align="left" style="background:blueviolet">
-<a href="https://codepen.io/Rickrasin" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Rickrasin-05122A?style=for-the-badge&logo=codepen&color=blueviolet" alt="codepen"/>
-</a>
+
 <a href="https://www.linkedin.com/in/rickson-oliveira-44331822b" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-ricksonoliveira-05122A?style=for-the-badge&logo=linkedin&color=blueviolet" alt="linkedin"/>
 </a>
-<a href="https://www.instagram.com/rickrasochefe/" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-rickrasochefe-05122A?style=for-the-badge&logo=instagram&color=blueviolet" alt="instagram"/>
-</a>
+
 </p>
 
 ![Snake animation](https://github.com/rickrasin/rickrasin/blob/output/github-contribution-grid-snake.svg)

@@ -17,11 +17,12 @@
 
 
 ## 🛠 &nbsp;Tecnologias
+
+![ReactJS](https://img.shields.io/badge/-REACTJS-05122A?style=for-the-badge&logo=REACT&color=blueviolet)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=for-the-badge&logo=typescript&color=blueviolet)&nbsp;
+![NextJS](https://img.shields.io/badge/-NextJS-05122A?style=for-the-badge&logo=next.js&color=blueviolet)&nbsp;
 ![FramerMotion](https://img.shields.io/badge/-FramerMotion-05122A?style=for-the-badge&logo=framer&color=blueviolet)&nbsp;
 ![Redux](https://img.shields.io/badge/-redux-05122A?style=for-the-badge&logo=redux&color=blueviolet)&nbsp;
-![ReactJS](https://img.shields.io/badge/-ReactJS-05122A?style=for-the-badge&logo=REACT&logoColor=1572B6&color=blueviolet)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=for-the-badge&logo=typescript&color=blueviolet)&nbsp;
-![NextJS](https://img.shields.io/badge/-NextJS-05122A?style=for-the-badge&logo=NEXT&color=blueviolet)&nbsp;
 
 <br><br>
 

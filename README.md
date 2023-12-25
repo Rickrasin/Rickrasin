@@ -19,9 +19,9 @@
 ## 🛠 &nbsp;Tecnologias
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=HTML5&color=blueviolet)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3&logoColor=1572B6&color=blueviolet)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript&color=blueviolet)&nbsp;
-![TypeScript](https://img.shields.io/badge/-Unity-05122A?style=for-the-badge&logo=unity&color=blueviolet)&nbsp;
+![ReactJS](https://img.shields.io/badge/-ReactJS-05122A?style=for-the-badge&logo=REACT&logoColor=1572B6&color=blueviolet)&nbsp;
+![NextJS](https://img.shields.io/badge/-NextJS-05122A?style=for-the-badge&logo=NEXT&color=blueviolet)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=for-the-badge&logo=typescript&color=blueviolet)&nbsp;
 
 <br><br>
 

@@ -1,4 +1,4 @@
-<img align="right" height="768em" src="https://raw.githubusercontent.com/gist/Rickrasin/28fe55a2d1c9c03e6c5606cabd434037/raw/c7d93abd78e897980bf507ded8ea60fe1b97b077/githubcard.svg"/>
+<!-- <img align="right" height="768em" src="https://raw.githubusercontent.com/gist/Rickrasin/28fe55a2d1c9c03e6c5606cabd434037/raw/c7d93abd78e897980bf507ded8ea60fe1b97b077/githubcard.svg"/> -->
 <h1 align="left">Olá <img height="30px" width="30px" src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_dark-skin-tone_1f44b-1f3ff_1f3ff.png" >, Eu sou Rickson</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rickrasin&color=blue" alt="Profile views" /> </p>
 
@@ -21,6 +21,7 @@
 ![ReactJS](https://img.shields.io/badge/-REACTJS-05122A?style=for-the-badge&logo=REACT&color=blueviolet)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=for-the-badge&logo=typescript&color=blueviolet)&nbsp;
 ![NextJS](https://img.shields.io/badge/-NextJS-05122A?style=for-the-badge&logo=next.js&color=blueviolet)&nbsp;
+![NodeJS](https://img.shields.io/badge/-NodeJS-05122A?style=for-the-badge&logo=node.js&color=blueviolet)&nbsp;
 ![FramerMotion](https://img.shields.io/badge/-FramerMotion-05122A?style=for-the-badge&logo=framer&color=blueviolet)&nbsp;
 ![Redux](https://img.shields.io/badge/-redux-05122A?style=for-the-badge&logo=redux&color=blueviolet)&nbsp;
 

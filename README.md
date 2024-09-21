@@ -6,9 +6,9 @@
 
 - 🔭 No momento estou incrementando meu portfólio com os desafios do **[FrontEndMentor](https://www.frontendmentor.io/profile/Rickrasin)**.
 
-- 🌱 Eu estou aprendendo **TypeScript** & **NextJS**.
+- 🌱 Eu estou aprendendo **NEXTJS**, **PARSE SERVER**, **NODEJS** & **UNITY**.
 
-- 💬 Pergunte-me sobre **ReactJS**, **TypeScript** e **NextJS**
+- 💬 Pergunte-me sobre **ReactJS**, **NEXTJS** e **UNITY**
 
 - ⚡ Fun fact **O ontem é história, o amanhã é um mistério, mas hoje é uma dádiva, por isso chama-se presente. 🍃**
 
@@ -19,12 +19,9 @@
 ## 🛠 &nbsp;Tecnologias
 
 ![ReactJS](https://img.shields.io/badge/-REACTJS-05122A?style=for-the-badge&logo=REACT&color=blueviolet)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=for-the-badge&logo=typescript&color=blueviolet)&nbsp;
 ![NextJS](https://img.shields.io/badge/-NextJS-05122A?style=for-the-badge&logo=next.js&color=blueviolet)&nbsp;
 ![NodeJs](https://img.shields.io/badge/-NodeJs-05122A?style=for-the-badge&logo=node.js&color=blueviolet)&nbsp;
-![FramerMotion](https://img.shields.io/badge/-FramerMotion-05122A?style=for-the-badge&logo=framer&color=blueviolet)&nbsp;
-![Redux](https://img.shields.io/badge/-redux-05122A?style=for-the-badge&logo=redux&color=blueviolet)&nbsp;
-
+![unity](https://img.shields.io/badge/-unity-05122A?style=for-the-badge&logo=unity&color=blueviolet)&nbsp; 
 <br><br>
 
 ## ⚙️ &nbsp;Estatíticas no GitHub

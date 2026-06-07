@@ -1,110 +1,67 @@
-<!-- Banner / Card opcional
-<img align="right" height="220em" src="https://raw.githubusercontent.com/gist/Rickrasin/28fe55a2d1c9c03e6c5606cabd434037/raw/c7d93abd78e897980bf507ded8ea60fe1b97b077/githubcard.svg"/>
--->
+<img align="right" width="230" src="./assets/rickson-profile-photo.svg" alt="Foto profissional de Rickson Oliveira" />
 
-<h1 align="left">
-  E aí, eu sou o Rickson <img height="30px" width="30px" src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_dark-skin-tone_1f44b-1f3ff_1f3ff.png" >
-</h1>
+# Olá, eu sou o Rickson 👋
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=rickrasin&color=blueviolet" alt="Profile views" />
-</p>
+Sou desenvolvedor **Frontend** com foco em construir interfaces claras, funcionais e bem organizadas usando **React**, **Next.js**, **TypeScript** e **Tailwind CSS**.
 
-Sou dev **frontend** que gosta de pegar processos confusos e transformar em **interfaces simples** que realmente ajudam o dia a dia de quem usa – seja pra restaurante, clínica ou app interno.
+Gosto de transformar ideias e processos confusos em produtos simples de usar — principalmente sistemas web, painéis, MVPs e aplicações para negócios reais.
 
-Atualmente eu:
+Atualmente venho colocando mais projetos no ar e evoluindo minha base técnica com foco em produto, arquitetura de frontend e entrega.
 
-- ✨ Constrói **aplicações web** com **React / Next.js** focadas em produtos reais (SaaS, sistemas internos, painéis e CRMs).
-- 🧱 Ligo o front com o mundo usando **Node.js**, **APIs REST** e **Parse Server**.
-- 📱 Tenho contato com **apps mobile** e arquitetura em **Flutter**.
-- 🎮 Brinco com **Unity** e ideias de jogos quando sobra um tempo.
-- ⚙️ Me preocupo com **arquitetura**, reuso de componentes, DX e um código que eu não vou odiar daqui a 6 meses.
+<br clear="right" />
 
-> “O ontem é história, o amanhã é um mistério, mas hoje é uma dádiva — por isso chama-se presente.” 🍃
+## Atualmente
 
-<br/>
+- 🚀 Lancei o **Silver 3** em uma versão **MVP enxuta**, focada no essencial.
+- 💬 Publiquei meu **primeiro projeto de chat**.
+- 🧩 Trabalho principalmente com **React**, **Next.js**, **TypeScript**, **Tailwind CSS** e integração com APIs.
+- 🛠 Tenho experiência conectando frontend com **Node.js**, **APIs REST** e **Parse Server**.
+- 📱 Também estudo e desenvolvo interfaces em **Flutter**.
+- 🎮 Tenho interesse em desenvolvimento de jogos e prototipação com **Unity**.
 
-## 🚀 O que eu ando construindo
+## O que eu faço
 
-Alguns tipos de projetos que fazem parte da minha rotina:
+- Desenvolvimento de interfaces web responsivas.
+- Criação de landing pages, sites institucionais e portfólios.
+- Desenvolvimento de MVPs e sistemas internos.
+- Integração com APIs e backends customizados.
+- Organização de componentes, rotas, estados e fluxos de UI.
 
-- 🍔 **Sistemas de delivery e gestão de pedidos**  
-  Painéis em Next.js integrados com backends customizados (Parse / Node) para restaurantes e negócios locais.
+## Tecnologias
 
-- 🩺 **Ferramentas para clínicas e negócios**  
-  Integração de backends com WhatsApp, filas de atendimento, dashboards, CRM e interfaces pensadas pro time que usa no dia a dia.
-
-- 📱 **Apps e experiências digitais**  
-  Telas em Flutter, protótipos em Figma e interfaces com foco em usabilidade.
-
-- 🎮 **Games & protótipos**  
-  Sistemas de jogo, mecânicas e interfaces usando **Unity**.
-
-<br/>
-
-## 🛠 Tecnologias & Ferramentas
-
-#### Frontend
+### Frontend
 
 ![React](https://img.shields.io/badge/-React-05122A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=for-the-badge&logo=next.js)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=for-the-badge&logo=typescript)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp;
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=for-the-badge&logo=tailwindcss)&nbsp;
-![Styled Components](https://img.shields.io/badge/-Styled%20Components-05122A?style=for-the-badge&logo=styled-components)&nbsp;
 
-#### Backend & Banco
+### Backend e ferramentas
 
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&logo=node.js)&nbsp;
 ![Parse Server](https://img.shields.io/badge/-Parse%20Server-05122A?style=for-the-badge)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=for-the-badge&logo=mongodb)&nbsp;
-
-#### Outras
-
 ![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)&nbsp;
-![Unity](https://img.shields.io/badge/-Unity-05122A?style=for-the-badge&logo=unity)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=for-the-badge&logo=figma)&nbsp;
+![Unity](https://img.shields.io/badge/-Unity-05122A?style=for-the-badge&logo=unity)&nbsp;
 
-<br/>
-
-## 📊 Estatísticas no GitHub
+## GitHub
 
 <div align="left">
-  <img
-    height="170em"
-    src="https://github-readme-stats.vercel.app/api?username=rickrasin&show_icons=true&theme=radical&include_all_commits=true&count_private=true"
-  />
-  <br/>
-  <img
-    height="170em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rickrasin&layout=compact&theme=radical&card_width=445"
-  />
-  <br/>
-  <img
-    height="170em"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=rickrasin&theme=radical"
-  />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=rickrasin&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <br />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rickrasin&layout=compact&theme=radical&card_width=445" />
 </div>
 
-<br/>
-
-## 🌐 Onde me encontrar
+## Onde me encontrar
 
 <p align="left">
+  <a href="https://rickson.dev" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/-rickson.dev-05122A?style=for-the-badge&color=blueviolet" alt="Portfólio" />
+  </a>
 
-<a href="https://rickson.dev" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-rickson.dev-05122A?style=for-the-badge&color=blueviolet" alt="Portfólio"/>
-</a>
-
-<a href="https://www.linkedin.com/in/rickson-oliveira-44331822b" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-LinkedIn-05122A?style=for-the-badge&logo=linkedin&color=blueviolet" alt="LinkedIn"/>
-</a>
-
+  <a href="https://www.linkedin.com/in/rickson-oliveira-44331822b" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/-LinkedIn-05122A?style=for-the-badge&logo=linkedin&color=blueviolet" alt="LinkedIn" />
+  </a>
 </p>
-
-<!--
-Ideias de seções extras pra adicionar depois:
-- 🔭 Projetos em destaque (Fud, Cardiocor, Fidelight, etc.)
-- 🧠 Techs / assuntos que quero aprender em breve
-- 🎮 Games & hobbies
--->

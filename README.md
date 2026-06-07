@@ -1,14 +1,8 @@
-<img align="right" width="230" src="./assets/rickson-profile-photo.svg" alt="Foto profissional de Rickson Oliveira" />
-
 # Olá, eu sou o Rickson 👋
 
 Sou desenvolvedor **Full Stack**, com foco maior em **backend, integrações e construção de produtos web**.
 
 Trabalho principalmente com **Node.js**, **APIs REST**, **Parse Server**, **React**, **Next.js**, **TypeScript** e **Tailwind CSS**, conectando interfaces, regras de negócio e dados para transformar ideias em aplicações funcionais.
-
-Atualmente estou desenvolvendo o **Silver 3**, um produto em evolução que reúne minhas decisões técnicas, experiência prática e visão de produto.
-
-<br clear="right" />
 
 ## Atuação
 

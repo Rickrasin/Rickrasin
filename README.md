@@ -2,32 +2,30 @@
 
 # Olá, eu sou o Rickson 👋
 
-Sou desenvolvedor **Frontend** com foco em construir interfaces claras, funcionais e bem organizadas usando **React**, **Next.js**, **TypeScript** e **Tailwind CSS**.
+Sou desenvolvedor **Full Stack**, com foco maior em **backend, integrações e construção de produtos web**.
 
-Gosto de transformar ideias e processos confusos em produtos simples de usar — principalmente sistemas web, painéis, MVPs e aplicações para negócios reais.
+Trabalho principalmente com **Node.js**, **APIs REST**, **Parse Server**, **React**, **Next.js**, **TypeScript** e **Tailwind CSS**, conectando interfaces, regras de negócio e dados para transformar ideias em aplicações funcionais.
 
-Atualmente venho colocando mais projetos no ar e evoluindo minha base técnica com foco em produto, arquitetura de frontend e entrega.
+Atualmente estou desenvolvendo o **Silver 3**, um produto em evolução que reúne minhas decisões técnicas, experiência prática e visão de produto.
 
 <br clear="right" />
 
-## Atualmente
+## Atuação
 
-- 🚀 Lancei o **Silver 3** em uma versão **MVP enxuta**, focada no essencial.
-- 💬 Publiquei meu **primeiro projeto de chat**.
-- 🧩 Trabalho principalmente com **React**, **Next.js**, **TypeScript**, **Tailwind CSS** e integração com APIs.
-- 🛠 Tenho experiência conectando frontend com **Node.js**, **APIs REST** e **Parse Server**.
-- 📱 Também estudo e desenvolvo interfaces em **Flutter**.
-- 🎮 Tenho interesse em desenvolvimento de jogos e prototipação com **Unity**.
+- Desenvolvimento de aplicações web full stack.
+- Criação de APIs, integrações e fluxos de negócio.
+- Construção de MVPs e sistemas internos.
+- Integração entre frontend, backend, banco de dados e serviços externos.
+- Organização de arquitetura, componentes, rotas e estados de aplicação.
 
-## O que eu faço
+## Stack principal
 
-- Desenvolvimento de interfaces web responsivas.
-- Criação de landing pages, sites institucionais e portfólios.
-- Desenvolvimento de MVPs e sistemas internos.
-- Integração com APIs e backends customizados.
-- Organização de componentes, rotas, estados e fluxos de UI.
+### Backend e integrações
 
-## Tecnologias
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&logo=node.js)&nbsp;
+![Parse Server](https://img.shields.io/badge/-Parse%20Server-05122A?style=for-the-badge)&nbsp;
+![REST APIs](https://img.shields.io/badge/-REST%20APIs-05122A?style=for-the-badge)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=for-the-badge&logo=mongodb)&nbsp;
 
 ### Frontend
 
@@ -37,13 +35,11 @@ Atualmente venho colocando mais projetos no ar e evoluindo minha base técnica c
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp;
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=for-the-badge&logo=tailwindcss)&nbsp;
 
-### Backend e ferramentas
+### Ferramentas e outros interesses
 
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&logo=node.js)&nbsp;
-![Parse Server](https://img.shields.io/badge/-Parse%20Server-05122A?style=for-the-badge)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=for-the-badge&logo=mongodb)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=for-the-badge&logo=figma)&nbsp;
+![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=for-the-badge&logo=flutter)&nbsp;
 ![Unity](https://img.shields.io/badge/-Unity-05122A?style=for-the-badge&logo=unity)&nbsp;
 
 ## GitHub

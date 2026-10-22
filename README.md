@@ -1,3 +1,12 @@
+<p align="center">
+  <a href="https://rickson.dev">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/logo-vertical-branca.svg">
+      <img src="./assets/logo-vertical.svg" alt="Rickson.dev" width="320">
+    </picture>
+  </a>
+</p>
+
 # Olá, eu sou o Rickson 👋
 
 Sou desenvolvedor **Full Stack**, com foco maior em **backend, integrações e construção de produtos web**.
